@@ -1,4 +1,4 @@
-🛠️ TL;DR — How to Run This React Project Locally
+ How to Run This React Project Locally
 
 Clone the repo
 
