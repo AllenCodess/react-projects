@@ -2,7 +2,7 @@
 
 Clone the repo
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone git@github.com:AllenCodess/Dynamic-Clock.git
 cd your-repo-name
 
 
